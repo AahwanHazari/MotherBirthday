@@ -1,0 +1,33 @@
+center{
+    background-color: lightgreen;
+}
+
+#photo{
+    height: 200px;
+    width: 250px;
+}
+#main_img{
+    height: 500;
+    width: 700;
+}
+#chat{
+    height: 50px;
+    width: 100px;
+    background-color: lightsalmon;
+}
+#make{
+    background-color: magenta;
+    height: 50px;
+    width: 100px;
+}
+#explore{
+    background-color: yellow;
+    height: 50px;
+    width: 100px;
+}
+#para{
+    color: blue;
+}
+h4{
+    color: tomato;
+}
